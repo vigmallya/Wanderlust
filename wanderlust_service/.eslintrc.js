@@ -1,0 +1,44 @@
+module.exports = {
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "camelcase": "error",
+        "key-spacing": "error",
+        "keyword-spacing": [
+            "error",
+            {
+                "after": false,
+                "before": true
+            }
+        ],
+        "semi-spacing": [
+            "error",
+            {
+                "after": true,
+                "before": false
+            }
+        ],
+        "space-before-function-paren": "error",
+        "space-in-parens": [
+            "error",
+            "always"
+        ]
+    }
+};

@@ -1,0 +1,33 @@
+TypeError: connection.getBookingCollection.then is not a function
+    at myCollection.insertMany.then (C:\Users\aravinth.r01\Desktop\wanderlust\wanderlust-react\wanderlust-web-service\src\model\setupUser.js:21:56)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\model\userslogin.js:34:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\model\userslogin.js:34:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: A user can only book one package in a particular duration
+    at C:\Users\hp\Desktop\wanderlust\wanderlust-web-service-master\src\service\userslogin.js:170:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
